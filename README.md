@@ -4,11 +4,11 @@ A simple weather app that fetches real-time weather data for any location. ☀�
 
 ✨ Features
 
-🌍 Real-time weather updates
+ Real-time weather updates
 
-🔍 Search by city
+ Search by city
 
-🌡️ Displays temperature, humidity, and conditions
+ Displays temperature, humidity, and conditions
 
 🛠️ Technologies Used
 
